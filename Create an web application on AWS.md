@@ -15,3 +15,5 @@ git branch -M main
 ```
 
 npm create amplify@latest -y
+
+npx ampx generate --profile field graphql-client-code --out /Users/fabricio/Documents/GitHub/profilesapp/amplify/auth/post-confirmation/graphql
